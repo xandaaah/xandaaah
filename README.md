@@ -1,4 +1,4 @@
 Hello there! My name is Xander.
-I really like Fosscord and Cish (also known as Superforth).
+I am currently learning Zig, and I know Python and Batch.
 
 ![Metrics](/github-metrics.svg)
