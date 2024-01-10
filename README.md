@@ -1,4 +1,4 @@
-Hello there! My name is Xander.
-I am currently learning Zig, and I know Python and Batch.
+Lead (and only) developer @ Pyncraft
+
 
 ![Metrics](/github-metrics.svg)
