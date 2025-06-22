@@ -1,3 +1,3 @@
-I've moved on from Github due to Microsoft. Find me at git.4096.one.
+I've moved on from Github. Find me at (will update later).
 
 ![Metrics](/github-metrics.svg)
